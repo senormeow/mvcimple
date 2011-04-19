@@ -1,6 +1,6 @@
 #!/usr/bin/perl
+use strict;
 #Code to generate web application 
-
 #This will be read by there one files eventually, perhaps even XML
 $MODLES = { "ticket" => { 
             firstName => {type => "name" },
